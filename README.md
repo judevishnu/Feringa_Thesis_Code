@@ -40,5 +40,5 @@ $1 600 $3 20000 20000 759.375 0 200 200 $2
     relaxationp = 20000
     langperiod = 0
 - 600  cycles of contraction already defined within the code
-
+Please use dt=5e-4 for Thesis reproduction.
 Hoomd download on request: https://github.com/judevishnu/mytors_hoomd.git
